@@ -12,7 +12,3 @@
 - What do the roles entail? Can you make a meme out of it?
 - Can you compare two similar roles?
 - What are the different PM roles? Project manager? Product manager? Product owner??
-
-## Notes
-- Product manager: someone who 
-- Project manager: someone who
